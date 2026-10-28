@@ -4,11 +4,15 @@ Welcome to my PostgreSQL Database Administration portfolio.
 I am an Information Technology student at Ghana Communication Technology University (GCTU), building practical skills in SQL and Database Administration using PostgreSQL.
 
 # Projects
-1. # W3Schools Demo Database
+
+# W3Schools Demo Database
    
 Status: In progress
+
 Database: PostgreSQL
+
 Tables: Categories, Customers, Products, Orders, Order Details, and Test Products
+
 Goal: Practise database creation, data manipulation, querying, and relationships between tables.
 
 # Skills in Progress
