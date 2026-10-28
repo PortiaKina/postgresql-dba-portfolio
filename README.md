@@ -18,9 +18,13 @@ Goal: Practise database creation, data manipulation, querying, and relationships
 # Skills in Progress
 
 SQL fundamentals
+
 Creating and managing tables
+
 Inserting, updating, and deleting data
+
 Querying and filtering data
+
 Database relationships and joins
 
 More projects and practical exercises will be added as I continue learning. 
